@@ -41,7 +41,7 @@ experience:
     company: 5miles
     company_url: 'https://www.5miles.com/'
     location: Beijing
-    date_start: '2015-20-09'
+    date_start: '2015-10-09'
     date_end: '2018-12-28'
     description: |2-
       Responsibilities include:
