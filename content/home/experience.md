@@ -26,7 +26,7 @@ experience:
     company: Coupang Global LLC
     company_url: 'https://www.coupang.com/'
     location: California
-    date_start: '2021-06-01'
+    date_start: '2020-06-01'
     date_end: ''
     description: |2-
         Responsibilities include:
