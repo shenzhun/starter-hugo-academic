@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Ads System
+    tag: machine learing, optimization
   - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+    tag: Deep learning
+  - name: Blockchain
+    tag: blockchain
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
