@@ -25,7 +25,6 @@ experience:
   - title: Senior Ranking Engineer
     company: Coupang Global LLC
     company_url: 'https://www.coupang.com/'
-    company_logo:
     location: California
     date_start: '2021-06-01'
     date_end: ''
@@ -41,7 +40,6 @@ experience:
   - title: Senior Software Engineer
     company: 5miles
     company_url: 'https://www.5miles.com/'
-    company_logo: 
     location: Beijing
     date_start: '2015-20-09'
     date_end: '2018-12-28'
@@ -57,7 +55,6 @@ experience:
   - title: Software Engineer
     company: LightInTheBox
     company_url: 'https://www.lightinthebox.com/'
-    company_logo: 
     location: Beijing
     date_start: '2014-02-18'
     date_end: '2015-10-08'
@@ -71,7 +68,6 @@ experience:
   - title: Product System Analyst,
     company: IBM
     company_url: 'https://www.lightinthebox.com/'
-    company_logo: 
     location: Suzhou, Jiangsu
     date_start: '2012-09-26'
     date_end: '2014-01-17'
