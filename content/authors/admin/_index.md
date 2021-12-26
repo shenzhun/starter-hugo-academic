@@ -1,60 +1,59 @@
 ---
 # Display name
-title: Nelson Bighetti
+name: Allen Shen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Software Engineer(Ads Quality) at Coupang
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: ""
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include machine learning on e-commerce/games, blockchain, startup business, and open source projects.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Ads Ranking
+- Search Relevance & Ranking
+- Machine Learning
+- Recommendation & Personalization
+- E-Commerce
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: M.S. in Computer Science
+    institution: University of Southern California
+    year: 2020
+  - course: BSc in Computer Science
+    institution: University of Liverpool
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Computer Science
+    institution: Xi'an Jiaotong-Liverpool Univeristy
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/shenzhun
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/shenzhun
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:shenzhunallen@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/shenzhun
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +69,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, I'm a graduate student for master degree in computer science(Machine Learning) at University of Southern California. As a senior software engineer for the past 6 years, I designed real-time/batch data pipelines and built recommendation and personalization systems, search relevance and ranking, ads targeting for e-commerce platforms. As a growth hacker, I collaborated with marketing, engineering and operation teams to analyze data and to perform offline experiments and online A/B testing to grow 17% of the user base and 20% of the daily revenue within 3 months. As a tech lead, I led global teams(Los Angeles, Beijing, and Shanghai) to develop and release the beta, v1 and v2 of Noomi Wallet, which supports Ethereum, Bitcoin and Cybermiles blockchain network.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
