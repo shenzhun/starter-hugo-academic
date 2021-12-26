@@ -70,5 +70,3 @@ highlight_name: true
 ---
 
 Currently, I'm a graduate student for master degree in computer science(Machine Learning) at University of Southern California. As a senior software engineer for the past 6 years, I designed real-time/batch data pipelines and built recommendation and personalization systems, search relevance and ranking, ads targeting for e-commerce platforms. As a growth hacker, I collaborated with marketing, engineering and operation teams to analyze data and to perform offline experiments and online A/B testing to grow 17% of the user base and 20% of the daily revenue within 3 months. As a tech lead, I led global teams(Los Angeles, Beijing, and Shanghai) to develop and release the beta, v1 and v2 of Noomi Wallet, which supports Ethereum, Bitcoin and Cybermiles blockchain network.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
